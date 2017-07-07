@@ -1,2 +1,2 @@
 # Todolist
-a demo by vue and koa
+a demo by vue2.0 and elementUI
